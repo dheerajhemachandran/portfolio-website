@@ -1,0 +1,36 @@
+
+.s-media{
+  position: fixed;
+  top: 60% ;
+  left: 0;
+  z-index: 1000;
+  transition:all linear 0.2s ;
+ }
+ .s-media a{
+     border-radius: 0 5px 5px 0;
+     margin:10px 0px;
+ }
+ 
+ .s-item {
+     display:block;
+     width: 60px;
+     height: 60px;
+     background-color: rgb(255,102,203);
+     font-size: 25px;
+     line-height: 60px;
+     padding-right: 15px;
+     text-align: right;
+
+ 
+     transition:all linear 0.2s ;
+ }
+
+ 
+
+
+ .linkedin {color: #0e76a8;}
+ .twitter {color: #3AAFD6;}
+ .insta {color: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);}
+ .git{color:#000;}
+ 
+ 

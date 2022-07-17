@@ -1,0 +1,138 @@
+.row{
+    margin-bottom: 40px;
+}
+
+.myself{
+    padding-top: 40px;
+    color:rgb(255,102,203);
+}
+
+.content{
+    padding: 20px 0px;
+    line-height: 1.7rem;
+    font-size:large;
+}
+
+.img-container{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.image{
+    margin: 20px;
+    border-radius: 50%;
+    border-color: #fff;
+}
+
+.skills{
+    margin-top: 90px;
+}
+
+.skill{
+    margin: 20px 40px;
+}
+
+
+.progress{
+    margin-top: 5px;
+    height: 10px;
+}
+
+.progress-bar{
+    background-color:rgb(255,102,203);
+}
+
+
+  
+.btn-outline {
+    margin-top: 40px;
+    color: rgb(255,102,203);
+    background-color: #000;
+    border-color: rgb(255,102,203);
+    font-weight: bold;
+    letter-spacing: 0.05em;
+    border-radius: 0;
+  }
+  
+  .btn-outline:hover,
+  .btn-outline:active,
+  .btn-outline:focus,
+  .btn-outline.active {
+    background: rgb(255,102,203);
+    color: #000;
+    border-color: rgb(255,102,203);
+    
+  }
+  
+
+.React{
+    width: 95%;
+    animation-name: React;
+    animation-duration: 4s;
+}
+
+@keyframes React {
+    from {width: 0%;}
+    to{width: 95%;}
+}
+
+
+.Python{
+    width: 87%;
+    animation-name: Python;
+    animation-duration: 4s;
+}
+
+@keyframes Python {
+    from {width: 0%;}
+    to{width: 87%;}
+}
+
+
+.Nodejs{
+    width: 64%;
+    animation-name: Nodejs;
+    animation-duration: 4s;
+}
+
+@keyframes Nodejs {
+    from {width: 0%;}
+    to{width: 64%;}
+}
+
+
+.AWS{
+    width: 57%;
+    animation-name: AWS;
+    animation-duration: 4s;
+}
+
+@keyframes AWS {
+    from {width: 0%;}
+    to{width: 57%;}
+}
+
+
+.Figma{
+    width: 64%;
+    animation-name: Figma;
+    animation-duration: 4s;
+}
+
+@keyframes Figma {
+    from {width: 0%;}
+    to{width: 64%;}
+}
+
+
+.Tensorflow{
+    width: 37%;
+    animation-name: Tensorflow;
+    animation-duration: 4s;
+}
+
+@keyframes Tensorflow {
+    from {width: 0%;}
+    to{width: 37%;}
+}

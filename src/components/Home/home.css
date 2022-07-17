@@ -1,0 +1,53 @@
+.home{
+    text-align: center;
+    padding-top: 10px;
+}
+
+.highlight{
+  color: #fff;
+    font-size: 80px;
+    display: inline;
+}
+
+
+.highlight:hover{
+    color:rgb(255,102,203);
+}
+
+.loader{
+  width: 10px;
+  height: 10px;
+  margin: 40px auto 0px auto;
+  border-radius: 50%;
+  background: #fff;
+}
+
+.posts{
+  display: inline-block;
+    font-size: larger;
+    color:rgb(255,102,203);
+    text-align: center;
+}
+
+
+  
+  .btn-outline {
+    margin-top: 40px;
+    color: rgb(255,102,203);
+    background-color: #000;
+    border-color: rgb(255,102,203);
+    font-weight: bold;
+    letter-spacing: 0.05em;
+    border-radius: 0;
+  }
+  
+  .btn-outline:hover,
+  .btn-outline:active,
+  .btn-outline:focus,
+  .btn-outline.active {
+    background: rgb(255,102,203);
+    color: #000;
+    border-color: rgb(255,102,203);
+    
+  }
+  

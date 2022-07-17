@@ -1,0 +1,27 @@
+
+  
+.resume{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+  .btn-outline {
+    margin-top: 40px;
+    color: rgb(255,102,203);
+    background-color: #000;
+    border-color: rgb(255,102,203);
+    font-weight: bold;
+    letter-spacing: 0.05em;
+    border-radius: 0;
+  }
+  
+  .btn-outline:hover,
+  .btn-outline:active,
+  .btn-outline:focus,
+  .btn-outline.active {
+    background: rgb(255,102,203);
+    color: #000;
+    border-color: rgb(255,102,203);
+    
+  }
+  
